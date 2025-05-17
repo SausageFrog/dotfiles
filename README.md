@@ -1,5 +1,5 @@
 # -----------------------------------------------------------
-# SausageFrog AwesomeWM dotfiles                              
+# AwesomeWM dotfiles                              
 # Contain AwesomeWM, ZSH, NVIM config folders.                
-# This AwesomeWM rice is based on 420 post on r/UnixPorn.     
+# This rice is based on 420 post on r/UnixPorn.     
 # -----------------------------------------------------------
