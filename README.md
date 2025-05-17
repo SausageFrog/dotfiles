@@ -1,5 +1,5 @@
 # -----------------------------------------------------------
-# AwesomeWM dotfiles                              
-# Contain AwesomeWM, ZSH, NVIM config folders.                
-# This rice is based on 420 post on r/UnixPorn.     
+# Personal AwesomeWM dotfiles                              
+# Contain AwesomeWM, ZSH, NVIM config files/folders.                
+# Rice is based on 420 post in r/UnixPorn.     
 # -----------------------------------------------------------
